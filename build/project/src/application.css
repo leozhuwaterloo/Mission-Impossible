@@ -1,0 +1,185 @@
+.root{
+	-fx-background-image: url("BG.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 800 600;
+    -fx-background-position: center center;
+}
+
+.combo-box{
+    -fx-background-color: #92ff90;
+    -fx-mark-color: white;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Agency FB";
+    -fx-font-size: 35px;
+}
+
+.choice-box:hover{
+    -fx-cursor:hand;
+}
+
+
+#redDot{
+	-fx-fill: #ff0000;
+	-fx-stroke-width: 3;
+	-fx-stroke: #000000;
+}
+
+#player{
+	-fx-fill: #ff0000;
+	-fx-stroke-width: 4;
+	-fx-stroke: #000000;
+}
+
+#coin{
+	-fx-fill: #ffff00;
+	-fx-stroke-width: 4;
+	-fx-stroke: #000000;
+}
+
+#buttom {
+    -fx-background-color: #e6e6ff;
+    -fx-padding: 15;
+    -fx-border-color: #8183ff;
+    -fx-border-width: 2px;
+}
+
+#greenArea{
+	-fx-fill: #92ff90;
+}
+
+#yellowArea{
+	-fx-fill: #fffba6;
+}
+
+#blueWall{
+	-fx-fill: #8183ff;
+}
+
+
+#menuButton{
+    -fx-background-color: transparent;
+    -fx-background-radius: 30;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Agency FB";
+    -fx-font-size: 50px;
+}
+
+#menuButton:hover {
+    -fx-background-color: #92ff90;
+    -fx-font-weight: bold;
+}
+
+#menuButton:pressed {
+	-fx-background-color: #8183ff;
+	-fx-text-fill: #e6e6ff;
+}
+
+#deathLabel{
+	-fx-background-color: transparent;
+	-fx-text-fill: #000000;
+    -fx-font-family: "Agency FB";
+    -fx-font-size: 45px;
+}
+
+#titleLabel{
+	-fx-background-color: transparent;
+	-fx-text-fill: #000000;
+    -fx-font-family: "Agency FB";
+    -fx-font-size: 72px;
+}
+
+
+
+#fancyLabel{
+	-fx-background-color: transparent;
+	-fx-text-fill: #000000;
+    -fx-font-family: "Agency FB";
+    -fx-font-size: 45px;
+    -fx-background-radius: 15;
+}
+
+
+
+#fancyLabel:hover {
+    -fx-background-color: #92ff90;
+    -fx-font-weight: bold;
+}
+
+
+
+
+
+
+#cusTable{
+	-fx-background-color: transparent;
+    -fx-font-size: 35px;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Agency FB";
+}
+
+
+
+
+.table-view .scroll-bar:vertical .increment-button,
+.table-view .scroll-bar:vertical .decrement-button,
+.table-view .scroll-bar:vertical .increment-arrow, 
+.table-view .scroll-bar:vertical .decrement-arrow {
+    -fx-padding: 0;
+}
+
+
+.table-view .scroll-bar:horizontal{
+	-fx-background-color: transparent;
+	-fx-border-color: transparent;
+}
+
+.table-view .scroll-bar:horizontal .increment-button, 
+.table-view .scroll-bar:horizontal .decrement-button{
+     -fx-background-color: transparent;
+}
+
+.table-view .scroll-bar:horizontal .track{
+	-fx-background-color: #8183ff;
+	-fx-background-radius:15;
+	-fx-opacity:0.2;
+	-fx-border-color: transparent;
+}
+
+.table-view .scroll-bar:horizontal .thumb{
+    -fx-background-color: #8183ff;
+    -fx-background-radius:15;
+	-fx-opacity:0.4;
+}
+
+.table-view .scroll-bar:horizontal .thumb:hover{
+	-fx-opacity:0.8;
+}
+
+
+
+
+
+
+
+
+.table-row-cell{
+   -fx-background-color: transparent;
+}
+
+.table-row-cell:hover{
+   -fx-background-color: #92ff90;
+   -fx-font-weight: bold;
+}
+
+.table-row-cell:selected {
+   -fx-background-color: #8183ff ;
+}
+
+.column-header {
+	-fx-background-color: #8183ff;
+	-fx-border-color: #e6e6ff;
+}
+
+
+
+

@@ -1,0 +1,56 @@
+Easy Wheel
+8
+64
+1
+Windmill-Easy
+10
+99
+7
+Dodge It All
+4
+36
+12
+Red Dot Everywhere
+3
+24
+2
+Way Too Easy
+6
+57
+2
+Never Hard When It Is Not Easy
+7
+68
+0
+One At A Time
+7
+70
+1
+It Is Only Bouncing
+8
+71
+4
+It Is Different
+5
+50
+2
+Easy Peasy Lemon Squeezy
+5
+38
+0
+It Is Fast
+9
+89
+2
+Test
+5
+31
+0
+Maze-Easy
+2
+19
+0
+Leo
+0
+0
+999

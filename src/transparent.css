@@ -1,0 +1,32 @@
+.root{
+	-fx-background-color: rgba(230, 230, 255, 0.6);
+}
+
+
+.button{
+    -fx-background-color: transparent;
+    -fx-background-radius: 30;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Agency FB";
+    -fx-font-size: 50px;
+}
+
+.button:hover {
+    -fx-background-color: #92ff90;
+    -fx-font-weight: bold;
+}
+
+.button:pressed {
+	-fx-background-color: #8183ff;
+	-fx-text-fill: #e6e6ff;
+}
+
+.label{
+	-fx-background-color: transparent;
+	-fx-text-fill: #000000;
+    -fx-font-family: "Agency FB";
+    -fx-font-size: 45px;
+}
+
+
+
